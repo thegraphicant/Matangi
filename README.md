@@ -1,8 +1,4 @@
 # Matangi
-Matangi is a variable devanagari type family that offers seven weights and includes Latin support.
+Matangi is a variable typeface with Latin and Devanagari support, designed for titles, headlines, and small body text.
+Find more information about font features, design, and language support at https://thegraphicant.xyz/matangi 
 
-
-
-![Comp-1_1](https://github.com/thegraphicant/Matangi/assets/68675889/fe4a92db-992a-42bb-978a-042bf0b5ab47)
-
-Read More: [https://thegraphicant.xyz/matangi](https://thegraphicant.xyz/matangi)
