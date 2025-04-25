@@ -1205,6 +1205,10 @@ value = (
 3,
 15
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2024-03-19 05:50:26 +0000";
