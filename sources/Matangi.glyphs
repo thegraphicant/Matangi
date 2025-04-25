@@ -2438,7 +2438,7 @@ sub t_ra_ya-deva by t_ra_ya-deva.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Traditional Devanagari Alternates";
 }
 );
 tag = ss01;
