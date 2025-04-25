@@ -230181,7 +230181,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 by The Graphic Ant. All Rights Reserved.";
+value = "Copyright 2021 The Matangi Project Authors (https://github.com/thegraphicant/Matangi)";
 }
 );
 },
