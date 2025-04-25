@@ -224663,7 +224663,7 @@ instanceInterpolations = {
 "0DC1F6FB-20EC-4E8F-AE98-F98B5FD714DE" = 0.16667;
 "B3961A9D-C6DC-4F74-9770-9C992C479D86" = 0.83333;
 };
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = 800;
 },
 {
