@@ -212666,6 +212666,24 @@ glyphname = dottedCircle;
 lastChange = "2024-03-19 05:01:25 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = nukta;
+pos = (291,-4);
+},
+{
+name = ogonek;
+pos = (554,0);
+},
+{
+name = top;
+pos = (304,560);
+}
+);
 layerId = "B3961A9D-C6DC-4F74-9770-9C992C479D86";
 shapes = (
 {
@@ -212808,6 +212826,24 @@ nodes = (
 width = 582;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = nukta;
+pos = (304,5);
+},
+{
+name = ogonek;
+pos = (554,0);
+},
+{
+name = top;
+pos = (304,560);
+}
+);
 layerId = "0DC1F6FB-20EC-4E8F-AE98-F98B5FD714DE";
 shapes = (
 {
