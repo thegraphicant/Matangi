@@ -204105,7 +204105,7 @@ unicode = 32;
 {
 color = 9;
 glyphname = nbspace;
-lastChange = "2024-02-14 04:51:54 +0000";
+lastChange = "2025-04-25 13:18:00 +0000";
 layers = (
 {
 layerId = "B3961A9D-C6DC-4F74-9770-9C992C479D86";
@@ -204113,9 +204113,10 @@ width = 600;
 },
 {
 layerId = "0DC1F6FB-20EC-4E8F-AE98-F98B5FD714DE";
-width = 228;
+width = 249;
 }
 );
+metricWidth = "=space";
 unicode = 160;
 },
 {
