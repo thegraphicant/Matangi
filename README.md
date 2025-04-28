@@ -9,7 +9,7 @@ The x-height of the Latin script and the base character height of the Devanagari
 ## License
 
 Matangi is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL).  
-For full details, please [see the OFL.txt file](./OFL.txt).
+To view the copyright and specific terms and conditions, please refer to the [OFL.txt](./OFL.txt).
 
 ## Downloading Font Binaries (TTF Files)
 
