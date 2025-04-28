@@ -222928,11 +222928,10 @@ width = 840;
 instances = (
 {
 axesValues = (
-938
+300
 );
 instanceInterpolations = {
-"0DC1F6FB-20EC-4E8F-AE98-F98B5FD714DE" = -0.06333;
-"B3961A9D-C6DC-4F74-9770-9C992C479D86" = 1.06333;
+"0DC1F6FB-20EC-4E8F-AE98-F98B5FD714DE" = 1;
 };
 name = Light;
 weightClass = 300;
