@@ -1,0 +1,7 @@
+sources:
+  - Matangi.glyphs
+buildOTF: false
+buildTTF: true
+buildWebfont: true
+buildStatic: true
+buildVariable: true
