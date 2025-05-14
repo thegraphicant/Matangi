@@ -5,7 +5,7 @@ Started as a personal challenge and a love for typography, this project was a jo
 
 The design is based on simple geometric shapes, primarily squares and circles, giving the letterforms a structured, rational character. Subtle inktraps are applied at stroke joints for aesthetic purposes, ensuring even typographic color across various sizes and weights. 
 
-The x-height of the Latin script and the base character height of the Devanagari script are carefully aligned to create visual harmony when typesetting both scripts together. Matangi includes over 1,600 glyphs and provides extensive language support, covering more than 200 (Devanagari & Latin Based) languages, primarily including Nepali, Sanskrit, Hindi, Marathi, Awadhi, Dotyali and Latin-based languages. It seamlessly renders extended Sanskrit ligatures and complex Devanagari matras.
+The x-height of the Latin script and the base character height of the Devanagari script are carefully aligned to create visual harmony when typesetting both scripts together. Matangi includes over 1,600 glyphs and provides extensive language support, covering more than 150 (Devanagari & Latin Based) languages, primarily including Nepali, Sanskrit, Hindi, Marathi, Awadhi, Dotyali and Latin-based languages. It seamlessly renders extended Sanskrit ligatures and complex Devanagari matras.
 ## License
 
 Matangi is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL).  
